@@ -1,5 +1,5 @@
-# <a href='https://pluralsight.com'><img src='' height=60 alt='PluralSight Logo'></a> A great course on GitHub
-
+# <img src='plsight.PNG' height=60 alt='PluralSight Logo'>
+# <a href='https://pluralsight.com'>A great course on GitHub</a>
 ## Learn GitHub
 This course is to learn GitHub.
 
